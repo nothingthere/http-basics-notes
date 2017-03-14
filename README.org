@@ -1,3 +1,61 @@
 #+TITLE: HTTP基础学习笔记
 
 参考自[[https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html][南洋科技大学官网]]
+
+* 简介
+** WEB
+** 超文本传输协议（Hypertext Transfer Protocol， HTTP）
+** 浏览器
+** 统一资源定位符（Uniform Resource Locator, URL）
+** HTTP协议
+** HTTP和TCP/IP
+** HTTP规范
+
+* Apache HTTP 服务器和Apache Tomcat服务器
+
+* HTTP的请求（Request）和返回（Response）消息
+** 请求
+** 返回
+
+* HTTP请求方法
+
+* “GET”方法
+** 测试HTTP请求
+** HTTP/1.0的GET请求
+** 返回状态码
+** HTTP请求举例
+** HTTP/1.1的GET请求
+** 带条件的GET请求
+** 请求头（Request Headers）
+** 对文件夹的GET请求
+** 通过代理服务器（Proxy Server）发生GET请求
+
+* "HEAD"请求方法
+
+* "OPTIONS"请求方法
+
+* "TRACE"请求方法
+
+* 提交HTML页面表单和查询字符串（Query String）
+
+* URL和URI
+
+* “POST”请求方法
+
+* 使用multipart/form-date POST请求方式上传文件
+
+* "CONNECT"请求方法
+
+* 其他请求方法
+
+* 内容谈判（Content Negotiation）
+** 内容类型谈判（Content-type Negotiation）
+** 语言谈判（Language Negotiation）和"Options MultiView"
+** 字符集谈判（Character Set Negotiation）
+** 编码谈判（Encoding Negotiation）
+
+* 持久（Keep-alive）连接
+
+* 下载（Range Download）
+
+* 缓存控制（Cache Control）
