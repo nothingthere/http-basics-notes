@@ -1,0 +1,3 @@
+#+TITLE: HTTP基础学习笔记
+
+参考自[[https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html][南洋科技大学官网]]
